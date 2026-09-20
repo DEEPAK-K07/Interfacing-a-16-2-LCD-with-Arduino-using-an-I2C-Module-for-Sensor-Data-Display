@@ -66,7 +66,7 @@ void setup() {
   lcd.setCursor(0, 0);
   
   // 2. Print your name here (Change "Your Name" to whatever you like!)
-  lcd.print("GIRI");
+  lcd.print("HI, I AM DEEPAK");
 }
 
 void loop() {
